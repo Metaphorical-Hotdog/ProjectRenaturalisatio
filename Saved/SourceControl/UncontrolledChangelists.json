@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Solarpunk GameJam/ProjectRenaturalisatio/Content/Blueprints/PuzzleSpot/ElectricityPuzzle.uasset",
+				"D:/Solarpunk GameJam/ProjectRenaturalisatio/Content/Maps/LEVEL_Testing.umap",
+				"D:/Solarpunk GameJam/ProjectRenaturalisatio/Content/UI/Widgets/Puzzles/WBP_ElectricityPuzzle.uasset",
 				"C:/Users/Victor/OneDrive/Documents/Unreal Projects/Renaturalisatio/Content/Maps/LEVEL_Testing.umap",
 				"C:/Users/Victor/OneDrive/Documents/Unreal Projects/Renaturalisatio/Content/2DAssets/Characters/Player/Frames/Ren__Idle_D_0_aseprite.uasset",
 				"C:/Users/Victor/OneDrive/Documents/Unreal Projects/Renaturalisatio/Content/2DAssets/Characters/Player/Frames/Ren__Idle_D_1_aseprite.uasset",
